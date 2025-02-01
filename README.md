@@ -6,6 +6,8 @@ Windowsのみ
 - トークンの複数設定が可能!
 - トークンを一覧表示
 - トークンの編集、管理
+
+[動画を見る](https://youtu.be/XloQfjgnb8s)
 ## ライセンス
 [MIT LICENSE](https://github.com/AIITScience/tokenloader-japanese/blob/main/LICENSE.md)
 
